@@ -1,1 +1,40 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@600&display=swap');
+
+h1 {
+    font-family: 'Spectral', serif;
+    color: white;
+    font-size: 6em;
+    padding-left: 25px;
+}
+
+body {
+    background-image: url(images/anywhere-workers.gif);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-color: #0f1a26;
+}
+
+a {
+    padding: 15px;
+    border-radius: 35px;
+    background-color: red;
+    color: white;
+}
+
+div {
+    font-family: 'Karla', sans-serif;
+    width: 50%;
+    padding-left: 25px;
+}
+
+p {
+
+    color: lightblue;
+    font-size: 1.5em;
+}
+
+span {
+    color: red;
+}
